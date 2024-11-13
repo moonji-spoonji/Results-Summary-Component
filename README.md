@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
+- Solution URL: [GitHub](https://github.com/moonji-spoonji/Results-Summary-Component)
 - Live Site URL: [Netlify](https://results-summary-profile-moonji.netlify.app/)
 
 ## My process
