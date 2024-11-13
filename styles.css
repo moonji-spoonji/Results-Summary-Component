@@ -34,7 +34,7 @@ body {
     font-family: "Hanken Grotesk", sans-serif;
 }
 
-section {
+main {
     width: 900px;
     height: auto;
     min-width: 700px;
@@ -212,7 +212,7 @@ p {
         overflow-y: scroll;
     }
 
-    section {
+    main {
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr;
