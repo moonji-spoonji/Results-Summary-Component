@@ -56,7 +56,7 @@ Users should be able to:
 
 ### Continued development
 
-One thing I would like to work on more is Figma design. Though unrelated, I think workingn with Figma will help me to better plan out how to code it. 
+One thing I would like to work on more is Figma design. Though unrelated, I think working with Figma will help me to better plan out how to code it more structurally. 
 
 ## Author
 
