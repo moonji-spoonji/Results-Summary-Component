@@ -14,9 +14,8 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .then((data) => {
         data.map((section, index) => {
-            icon[index].innerHTML = `<img src="${section.icon}">`
+            icon[index].innerHTML = `<img src="${section.icon}" alt="icon for ${section.category}">`
             category[index].innerText = section.category;
-            // score[index].innerText = `${section.score} / 100`;
             score[index].innerHTML = `<strong>${section.score}</strong> / 100`;
         })
     })
